@@ -38,12 +38,7 @@ Estudante de desenvolvimento apaixonado por criar interfaces e resolver problema
 
 
 
-  GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuisGuilherme605&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuilherme605&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
  Entre em Contato
 
