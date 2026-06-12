@@ -2,7 +2,7 @@
 
 # Luis Guilherme Vitorino Roberto
 
-**Front-End Developer | Python | Brasilia, DF**
+**Front-End Developer | Python | Brasília, DF**
 
 Studying Systems Analysis and Development (ADS) at UDF. Building clean, responsive interfaces and exploring backend with Python. Looking for my first opportunity in tech.
 
@@ -16,7 +16,7 @@ Studying Systems Analysis and Development (ADS) at UDF. Building clean, responsi
 
 ### About
 
-- ADS student at UDF (Analise e Desenvolvimento de Sistemas)
+- ADS student at UDF (Análise e Desenvolvimento de Sistemas)
 - Focused on front-end development with HTML, CSS, and JavaScript
 - Expanding my stack with Python
 - Advanced English -- CIL certified
@@ -32,7 +32,7 @@ Studying Systems Analysis and Development (ADS) at UDF. Building clean, responsi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
 
 ---
 
@@ -41,9 +41,9 @@ Studying Systems Analysis and Development (ADS) at UDF. Building clean, responsi
 | Project | Description | Stack |
 |---|---|---|
 | [Portfolio](https://github.com/LuisGuilherme605/portfolio-luis-guilherme) | Personal portfolio site with projects and contact info | HTML, CSS, JS |
-| [Brasilia 3D](https://github.com/LuisGuilherme605/Brasilia3D) | 3D interactive experience of Brasilia | HTML, CSS, JS |
-| [VORTEX Arquitetura](https://github.com/LuisGuilherme605/vortex-arquitetura) | Architecture firm landing page | HTML, CSS |
-| [Forma Studio](https://github.com/LuisGuilherme605/Forma-studio) | Design studio website | HTML, CSS |
+| [Brasília 3D](https://github.com/LuisGuilherme605/Brasilia3D) | Interactive 3D tourism guide for Brasília | HTML, CSS, JS |
+| [VORTEX Arquitetura](https://github.com/LuisGuilherme605/vortex-arquitetura) | Architecture firm landing page with dark theme | HTML, CSS, JS |
+| [Forma Studio](https://github.com/LuisGuilherme605/Forma-studio) | Creative design agency landing page | HTML, CSS, JS |
 | [Calculadora](https://github.com/LuisGuilherme605/Trabalho-faculdade-calculadora) | Calculator built in Python | Python |
 
 ---
