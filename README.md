@@ -2,9 +2,9 @@
 
 # Luis Guilherme Vitorino Roberto
 
-**Front-End Developer | Python | Brasília, DF**
+**Front-end developer | Python | Brasília, DF**
 
-Studying Systems Analysis and Development (ADS) at UDF. Building clean, responsive interfaces and exploring backend with Python. Looking for my first opportunity in tech.
+ADS student at UDF. I work mostly on the front-end (HTML, CSS, JavaScript) and I'm learning back-end with Python. Looking for my first job in the area.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guilherme-126072360)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=googlechrome&logoColor=white)](https://LuisGuilherme605.github.io/portfolio-luis-guilherme)
@@ -16,11 +16,11 @@ Studying Systems Analysis and Development (ADS) at UDF. Building clean, responsi
 
 ### About
 
-- ADS student at UDF (Análise e Desenvolvimento de Sistemas)
-- Focused on front-end development with HTML, CSS, and JavaScript
-- Expanding my stack with Python
-- Advanced English -- CIL certified
-- Open to internship and junior opportunities
+- Studying Análise e Desenvolvimento de Sistemas (ADS) at UDF
+- Front-end with HTML, CSS and JavaScript
+- Learning Python on the side
+- Advanced English (CIL certified)
+- Open to internship and junior roles
 
 ---
 
@@ -61,7 +61,6 @@ Studying Systems Analysis and Development (ADS) at UDF. Building clean, responsi
 
 <div align="center">
 
-*Currently looking for my first opportunity as a developer.*
-*Feel free to reach out -- I'd love to connect.*
+Looking for my first dev job. Feel free to reach out.
 
 </div>
