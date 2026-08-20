@@ -14,8 +14,6 @@ Procurando minha primeira oportunidade na área.
 
 - [Portfólio](https://github.com/LuisGuilherme605/portfolio-luis-guilherme) — meu site pessoal
 - [Brasília 3D](https://github.com/LuisGuilherme605/Brasilia3D) — um guia de turismo 3D de Brasília
-- [VORTEX Arquitetura](https://github.com/LuisGuilherme605/vortex-arquitetura) — landing page de um escritório de arquitetura
-- [Forma Studio](https://github.com/LuisGuilherme605/Forma-studio) — landing page de uma agência de design
 - [Calculadora](https://github.com/LuisGuilherme605/calculadora-python) — uma calculadora de linha de comando em Python
 
 ### Como falar comigo
