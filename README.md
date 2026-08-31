@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) no UDF, em Brasília, 
 ## Sobre mim
 
 - Cursando ADS no UDF (2º semestre)
-- Inglês avançado — certificado pelo CIL
+- Inglês
 - Disponível para estágio e vagas júnior
 
 ## Habilidades técnicas
