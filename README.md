@@ -1,22 +1,27 @@
-# Oi, eu sou o Luis Guilherme
+# Luis Guilherme
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no UDF, em Brasília.
-Trabalho mais com front-end (HTML, CSS e JavaScript) e estou aprendendo Python.
-Procurando minha primeira oportunidade na área.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) no UDF, em Brasília, com experiência prática em HTML, CSS, JavaScript e Python. Em busca da primeira oportunidade como desenvolvedor júnior ou estagiário.
 
-- estudante de ADS no UDF
-- front-end com HTML, CSS e JavaScript
-- aprendendo Python
-- inglês avançado (certificado pelo CIL)
-- aberto a estágio e vagas júnior
+## Sobre mim
 
-### Umas coisas que eu fiz
+- Cursando ADS no UDF (2º semestre)
+- Inglês avançado — certificado pelo CIL
+- Disponível para estágio e vagas júnior
 
-- [Portfólio](https://github.com/LuisGuilherme605/portfolio-luis-guilherme) — meu site pessoal
-- [Brasília 3D](https://github.com/LuisGuilherme605/Brasilia3D) — um guia de turismo 3D de Brasília
-- [Calculadora](https://github.com/LuisGuilherme605/calculadora-python) — uma calculadora de linha de comando em Python
+## Habilidades técnicas
 
-### Como falar comigo
+- Linguagens: HTML, CSS, JavaScript, Python
+- Ferramentas: Git, GitHub, VS Code
 
-- email: lg5104891@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/luis-guilherme-126072360)
+## Projetos
+
+- [Portfólio](https://github.com/LuisGuilherme605/portfolio-luis-guilherme) — site pessoal com trajetória e projetos
+- [Brasília 3D](https://github.com/LuisGuilherme605/Brasilia3D) — guia de turismo 3D interativo de Brasília
+- [Calculadora](https://github.com/LuisGuilherme605/calculadora-python) — calculadora de linha de comando em Python
+
+## Contato
+
+<p align="left">
+<a href="mailto:lg5104891@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luis-guilherme-126072360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
