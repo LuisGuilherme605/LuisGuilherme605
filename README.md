@@ -20,5 +20,5 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) no UDF, em Brasília, 
 
 ## Contato
 
-- Email: lg5104891@gmail.com
-- LinkedIn: https://www.linkedin.com/in/luis-guilherme-126072360
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lg5104891@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guilherme-126072360)
